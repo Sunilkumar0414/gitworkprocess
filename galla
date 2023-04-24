@@ -1,0 +1,34 @@
+### how to start the git repositry 
+  first github
+     !
+  create new repositry
+     !
+  then copy url
+     !
+  select folder
+     !
+  click big bash
+     !
+  change directory
+     !
+  give ls command
+     !
+  type git remote -v
+     !
+  command ls -la
+     !
+  create file with touch command
+     !
+  git status
+     !
+  git add .
+     !
+  git commit -m "give some comment about file brifly"
+     !
+  git push
+     !
+  git status
+     !
+  cat>file
+     !
+  give permissions chmod 777 file name
