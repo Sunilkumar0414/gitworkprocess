@@ -1,5 +1,5 @@
 ### how to start the git repositry 
-  first github
+  first go to github
      !
   create new repositry
      !
@@ -32,3 +32,9 @@
   cat>file
      !
   give permissions chmod 777 file name
+     !
+  if we want to change branch then type git checkout
+     !
+  if we want create branch then git checkout -b
+     !
+   if we change any file then git pull or git fetch
